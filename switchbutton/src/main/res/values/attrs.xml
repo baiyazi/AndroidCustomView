@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyButton">
+        <attr name="bgImg" format="reference"/>
+        <attr name="qgImg" format="reference"/>
+        <attr name="DTime" format="integer"/>
+    </declare-styleable>
+</resources>

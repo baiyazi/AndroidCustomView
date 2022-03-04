@@ -1,3 +1,8 @@
+include ':contactindex'
+include ':custionviewpager'
+include ':switchbutton'
+include ':dropdownbox'
+include ':carousel'
 include ':rotatemenu'
 include ':app'
 rootProject.name = "My Application"
