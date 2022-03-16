@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="My_Application.app" target="1.8" />
+      <module name="My_Application.carousel" target="1.8" />
+      <module name="My_Application.contactindex" target="1.8" />
+      <module name="My_Application.custionviewpager" target="1.8" />
+      <module name="My_Application.dropdownbox" target="1.8" />
+      <module name="My_Application.myapplication" target="1.8" />
+      <module name="My_Application.pullsaberdemo" target="1.8" />
+      <module name="My_Application.rotatemenu" target="1.8" />
+      <module name="My_Application.sideslip" target="1.8" />
+      <module name="My_Application.switchbutton" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

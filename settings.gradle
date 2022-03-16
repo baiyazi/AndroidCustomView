@@ -1,3 +1,8 @@
+include ':pullsaberdemo'
+include ':lib'
+include ':mykotlindemospace'
+include ':myapplication'
+include ':sideslip'
 include ':contactindex'
 include ':custionviewpager'
 include ':switchbutton'
